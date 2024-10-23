@@ -1,0 +1,9 @@
+.active {
+    background-color: #E7F2F3;
+    border-radius: 120px;
+    border: 1px solid #0E7A81;
+}
+
+.hidden{
+    display: none;
+}
